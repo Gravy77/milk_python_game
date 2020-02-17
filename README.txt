@@ -11,9 +11,9 @@ and other Python syntax to form a working game.
 
 2. Open the command prompt, change directory to where the files are downloaded.
 
-3. Run Python (version 3) from the command line with the text_game_scenes.py as the only argument.
+3. Run Python (version 3) from the command line with the text_game_starter.py as the only argument.
 
-4. Play the game in the command prompt by running Python (version 3) with text_game_starter.py as the only argument.
+4. Play the game in the command prompt running Python (version 3)
 
 	example (Linux): python3.6 text_game_starter.py
 	example (Windows 10): C:\Users\j_doe\AppData\Local\Programs\Python\Python37\python.exe text_game_starter.py
