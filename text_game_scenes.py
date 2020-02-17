@@ -1,3 +1,5 @@
+# Arvid Yuen; 2020-02-17
+
 from sys import exit
 from random import randint
 from textwrap import dedent
