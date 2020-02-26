@@ -1,7 +1,7 @@
 Arvid Yuen
 2020-02-15
 
-This is a simple text game written in Python 3.7.  It uses Python classes, inheritance, dictionaries, loops
+This is a simple text game written in Python 3.7 called Milkseeker.  It uses Python classes, inheritance, dictionaries, loops
 and other Python syntax to form a working game.  The web interface uses html and css.  It implements the flask module to create 
 a virtual environment which can be accessed as a web application.  The game uses the session module to store session data.
 
