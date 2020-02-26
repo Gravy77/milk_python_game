@@ -25,6 +25,6 @@ https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-
 
 ***Operating System***
 
-This game was successfully executed in a Linux VM.
+This game was successfully executed in a Kali Linux VM.
 
 
