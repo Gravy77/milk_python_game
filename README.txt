@@ -5,7 +5,7 @@ This is a simple text based web-game written in Python 3.7.  It uses Python clas
 and other Python syntax to form a working game.  The web interface uses html and css.  It uses the flask module to create 
 a virtual environment from which can be accessed as a web application.  The game uses the session module to store session data.
 
-Please see the screenshots before attempting to run the web game.
+Please see the screenshots by downloading and extracting the screenshots.zip folder.
 
 
 ***Instructions***
