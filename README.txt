@@ -1,14 +1,14 @@
 Arvid Yuen
 2020-02-15
 
-This is a simple text based web-game written in Python 3.7.  It uses Python classes, inheritance, dictionaries, loops
-and other Python syntax to form a working game.  The web interface uses html and css.  It uses the flask module to create 
-a virtual environment from which can be accessed as a web application.  The game uses the session module to store session data.
+This is a simple text game written in Python 3.7.  It uses Python classes, inheritance, dictionaries, loops
+and other Python syntax to form a working game.  The web interface uses html and css.  It implements the flask module to create 
+a virtual environment which can be accessed as a web application.  The game uses the session module to store session data.
 
 Please see the screenshots by downloading and extracting the screenshots.zip folder.
 
 
-***Instructions***
+***Instructions to play the game***
 
 1. Download and extract the milkseeker.zip folder.
 
@@ -25,6 +25,8 @@ https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-
 
 ***Operating System***
 
-This game was successfully executed in a Kali Linux VM.
+This game was successfully executed in a Kali Linux VM. It can be run in a Windows environment with Python/Flask.
+
+If you would like to learn more about this game, please contact me at arvidyuen7@hotmail.com.
 
 
