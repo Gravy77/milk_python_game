@@ -26,7 +26,3 @@ https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-
 ***Operating System***
 
 This game was successfully executed in a Kali Linux VM. It can be run in a Windows environment with Python/Flask.
-
-If you would like to learn more about this game, please contact me at arvidyuen7@hotmail.com.
-
-
