@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 1.4em;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+h1 {
+    color: white;
+    font-size: 2.2em;
+    font-weight: bold;
+    font-family: "Lucida Console", Monaco, monospace;
+    text-decoration: underline;
+}
+
+pre {
+    color: white;
+    font-size: 1em;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+#play_again {
+    color: yellow;
+}
+
+#action_text {
+    font-size: 1em;
+    font-family: "Lucida Console", Monaco, monospace;
+    height: 44px;
+    border-width: 2px;
+    padding: 1px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+    margin-right: 5px;
+    width: 275px;
+    border-radius: 4px;
+}
+
+#action_button {
+    font-size: 1em;
+    font-family: "Lucida Console", Monaco, monospace;
+    height: 50px;
+    border-width: 2px;
+    padding: 1px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+    width: 60px;
+    border-radius: 4px;
+}
+
+#fb1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 350px
+}
+
+#fb2, #fb3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 140px;
+    border: 3px solid yellow;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.score {
+    color: yellow;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#invalid_input {
+    color: red;
+    font-style: italic;
+}

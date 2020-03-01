@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow" />
+  <link type="text/css" rel="stylesheet" href="styles.css" />
+  <title>Milkseeker</title>
+</head>
+<body>
+
+<h1> Car </h1>
+<pre>
+You ran out of milk.  If you don’t buy some before the store closes, you won’t
+have milk for your cereal in the morning.  You cannot function without your
+morning cereal.
+
+You get in your car, turn the key and the engine sputters. It won't start
+  <hr />
+</pre>
+<div id="fb1">
+  <div id="fb2">
+    You
+    <br>
+    Last Used:
+    <br>
+    Rock
+    <br>
+    <a class="score">1</a>
+  </div>
+  <div id="fb3">
+    Lady
+    <br>
+    Last Used:
+    <br>
+    Paper
+    <br>
+    <a class="score">1</a>
+  </div>
+</div>
+<!--You used: Rock   Old lady used: Paper-->
+<!--<br>-->
+<!--Your wins: 1   Old lady's wins: 1-->
+<br><br>
+<a id="invalid_input">Invalid input. Please try something else.</a>
+
+<p><a id="play_again" href="/">Play Again?</a></p>
+<p>
+<form action="/game" method = "POST">
+<input type="text" placeholder="Action.." id="action_text" name="action"><input id="action_button" value="Go!" type="SUBMIT">
+</form>
+</p>
+
+</body>
+</html>
