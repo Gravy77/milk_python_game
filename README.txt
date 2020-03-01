@@ -5,7 +5,8 @@ This is a simple text game written in Python 3.7 called Milkseeker.  It uses Pyt
 and other Python syntax to form a working game.  The web interface uses html and css.  It implements the flask module to create 
 a virtual environment which can be accessed as a web application.  The game uses the session module to store session data.
 
-Please see the screenshots by downloading and extracting the screenshots.zip folder.
+Please see the screenshots by downloading and extracting the screenshots.zip folder, OR
+view GitHub pages at https://gravy77.github.io/milk_python_game/.
 
 
 ***Instructions to play the game***
